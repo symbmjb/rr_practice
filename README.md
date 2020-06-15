@@ -1,2 +1,5 @@
-# rr_practice
-A repository to begin making my research more reproducible
+## How to fold a paper airplane
+
+1. Find letter size paper
+2. Fold in half the long way
+3. etc.
