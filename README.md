@@ -2,4 +2,4 @@
 
 1. Find letter size paper
 2. Fold in half the long way
-3. etc.
+3. Now I've added more text to improve reproducibility
